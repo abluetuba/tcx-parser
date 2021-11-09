@@ -1,0 +1,13 @@
+{
+  "name": "tcx-parser",
+  "version": "0.1.0",
+  "description": "",
+  "main": "parser.js",
+  "type": "module",
+  "keywords": [],
+  "author": "abluetuba",
+  "license": "MIT",
+  "dependencies": {
+    "xml2js": "^0.4.23"
+  }
+}
